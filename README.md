@@ -7,3 +7,10 @@ So what were you thinking
 perhaps you were wrong 
 so follow my changes as i decide
 Commit 2
+
+
+
+
+
+
+Hello Follow my guidelines to improve 
