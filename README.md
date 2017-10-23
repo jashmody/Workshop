@@ -14,3 +14,6 @@ Commit 2
 
 
 Hello Follow my guidelines to improve 
+ Final Commit for the Hacktober Fest 
+ Yeah Thats It 
+ So Finally its over
